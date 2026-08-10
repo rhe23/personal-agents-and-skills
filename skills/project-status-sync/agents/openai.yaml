@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Status Sync"
+  short_description: "Refresh one project status from GitHub"
+  default_prompt: "Use $project-status-sync to refresh an active project status report."

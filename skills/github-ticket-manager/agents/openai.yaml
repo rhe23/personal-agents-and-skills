@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Ticket Manager"
+  short_description: "Create and update structured project tickets"
+  default_prompt: "Use $github-ticket-manager to create or update a GitHub project ticket."

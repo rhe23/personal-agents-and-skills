@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cross-Domain Status Sync"
+  short_description: "Delegate and synthesize domain status reports"
+  default_prompt: "Use $cross-domain-status-sync to refresh active domain and portfolio status."

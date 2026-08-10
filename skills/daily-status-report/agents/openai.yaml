@@ -1,0 +1,4 @@
+interface:
+  display_name: "Daily Status Report"
+  short_description: "Turn portfolio status into daily focus"
+  default_prompt: "Use $daily-status-report to refresh my daily and weekly product priorities."
